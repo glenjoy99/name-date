@@ -1,0 +1,13 @@
+body {
+    margin:0;
+    display:grid;
+}
+
+.grid-item {
+    width:300px;
+}
+
+.grid-container {
+    display: grid;
+    grid-column-gap: 50px;
+  }
